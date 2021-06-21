@@ -1,5 +1,5 @@
 # Tentaclimb
-A couch co-op game where you work together to climb out of the ocean. Try it out for free!
+Tentaclimb is a couch co-op game where you work together to climb out of the ocean. Try it out for free!
 
 **NOTE: Tentaclimb currently only supports gamepad controls. Mouse and keyboard controls will be added in the future**
 
