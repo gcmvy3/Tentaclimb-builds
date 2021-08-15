@@ -10,6 +10,5 @@ Tentaclimb is a couch co-op game where you work together to climb out of the oce
 
 Tentaclimb is in a very early state. I am developing it in my free time so expect updates to be slow. Feedback is appreciated!
 
-https://user-images.githubusercontent.com/8868433/129466853-60fbd592-fd22-462b-991c-885f807a27be.mp4
 
-![Screenshot](/Screenshots/screenshot1.png)
+https://user-images.githubusercontent.com/8868433/129466930-0e272210-7cf6-40af-992b-7ff6400914d4.mp4
