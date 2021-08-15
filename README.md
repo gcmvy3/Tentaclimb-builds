@@ -1,3 +1,4 @@
+
 # Tentaclimb
 Tentaclimb is a couch co-op game where you work together to climb out of the ocean. Try it out for free!
 
@@ -8,5 +9,7 @@ Tentaclimb is a couch co-op game where you work together to climb out of the oce
 [Latest Mac OS Build](https://github.com/gcmvy3/Tentaclimb-builds/raw/main/Builds/Tentaclimb%20Pre-alpha%20(Mac%20OS).app.zip)
 
 Tentaclimb is in a very early state. I am developing it in my free time so expect updates to be slow. Feedback is appreciated!
+
+https://user-images.githubusercontent.com/8868433/129466853-60fbd592-fd22-462b-991c-885f807a27be.mp4
 
 ![Screenshot](/Screenshots/screenshot1.png)
